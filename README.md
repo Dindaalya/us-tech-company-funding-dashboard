@@ -23,7 +23,6 @@ The dashboard analyzed 1.822K tech companies across 107 categories, with a total
 
 ## Files
 - `tech-company-funding-dashboard.pbix` — Power BI dashboard file
-- `data-cleaning-python.ipynb` — Python notebook for data cleaning
 - `tech-company-funding-dataset.csv` — cleaned dataset
 - `dashboard-preview.png` — dashboard preview image
 - `README.md` — project documentation
